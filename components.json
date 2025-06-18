@@ -2,14 +2,7 @@
   "$schema": "https://ui.shadcn.com/schema.json",
   "style": "default",
   "rsc": true,
-  "tsx": true,
-  "tailwind": {
-    "co
-  "aliases": {
-    "components": "@/components",
-    "utils": "@/lib/utils",
-    "ui": "@/components/ui",
-    "lib": "@/lib",
+  ""@/lib",
     "hooks": "@/hooks"
   },
   "iconLibrary": "lucide"
